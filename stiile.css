@@ -1,0 +1,16 @@
+ul{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+font-size: 25px;
+}
+*{
+    background-color: green;
+}
+img{
+    width: 450px;
+}
